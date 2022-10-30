@@ -6,7 +6,7 @@ public class L04ReverseArrayOfStrings {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String[] inputArr = scanner.nextLine().split(" ");
+        String[] inputArr = scanner.nextLine().split("\\s+");
 
         for (int i = 0; i < inputArr.length / 2; i++) {
             String oldElement = inputArr[i];
