@@ -25,3 +25,4 @@ public class L05EvenAndOddSubtraction {
         System.out.println(evenSum - oddSum);
     }
 }
+
