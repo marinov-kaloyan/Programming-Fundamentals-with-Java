@@ -2,7 +2,7 @@ package L04_Methods;
 
 import java.util.Scanner;
 
-public class P02Grades {
+public class L02Grades {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
