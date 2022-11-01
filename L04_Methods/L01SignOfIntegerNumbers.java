@@ -2,7 +2,7 @@ package L04_Methods;
 
 import java.util.Scanner;
 
-public class L01_SignOfIntegerNumbers {
+public class L01SignOfIntegerNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
