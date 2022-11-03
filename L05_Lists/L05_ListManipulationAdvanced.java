@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class P05ListManipulationAdvanced {
+public class L05_ListManipulationAdvanced{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
