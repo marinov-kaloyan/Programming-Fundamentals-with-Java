@@ -1,4 +1,4 @@
-package L02DataTypesAndVariables;
+package L02_DataTypesAndVariables;
 
 import java.util.Scanner;
 

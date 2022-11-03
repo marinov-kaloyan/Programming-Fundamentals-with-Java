@@ -24,7 +24,6 @@ public class L02_GaussTrick {
             numList.remove(numList.size() - 1);
         }
 
-        //System.out.println(numList.toString().replaceAll("[\\[\\],]", ""));
 
         for (int element : numList) {
             System.out.print(element + " ");
