@@ -20,4 +20,3 @@ public class E01_Train {
         System.out.println(sum);
     }
 }
-
