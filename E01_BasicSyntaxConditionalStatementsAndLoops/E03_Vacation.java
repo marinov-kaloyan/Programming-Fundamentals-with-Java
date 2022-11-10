@@ -2,7 +2,7 @@ package E01_BasicSyntaxConditionalStatementsAndLoops;
 
 import java.util.Scanner;
 
-public class Vacation_03 {
+public class E03_Vacation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int countPeople = Integer.parseInt(scanner.nextLine());
