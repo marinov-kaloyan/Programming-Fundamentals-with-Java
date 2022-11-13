@@ -2,7 +2,7 @@ package E07_MapsLambdaAndStreamAPI;
 
 import java.util.*;
 
-public class E06_StudentAcademy {
+public class E06_Courses {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
